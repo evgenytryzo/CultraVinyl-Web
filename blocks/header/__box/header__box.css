@@ -1,0 +1,7 @@
+.header__box {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    min-width: 250px;
+    justify-content: space-between;
+}

@@ -1,0 +1,14 @@
+.cover__image {
+    width: 100%;
+    max-height: 600px;
+    min-height: 350px;
+    object-position: top;
+    object-fit: cover;
+    transition: 0.25s ease-in-out;
+    filter: brightness(80%);
+}
+
+.cover__image:hover {
+    filter: brightness(50%);
+    transition: 0.25s ease-in-out;
+}

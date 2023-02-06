@@ -1,0 +1,13 @@
+.dropdown{
+    position: relative;
+    display: inline-block;
+    margin: auto 0 auto auto;
+}
+
+.dropdown:hover .header__links {
+    display: block;
+}
+
+.dropdown:hover .header__links-name {
+    opacity: 0.7;
+}
