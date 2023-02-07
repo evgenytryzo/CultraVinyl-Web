@@ -1,6 +1,6 @@
 .header__title {
-    margin: 0;
-    font-size: 34px;
-    line-height: 34px;
-    font-weight: 600;
+    margin: 0 0 0 40px;
+    width: 250px;
+    object-position: top;
+    object-fit: cover;
 }

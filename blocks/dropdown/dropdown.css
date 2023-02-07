@@ -1,13 +1,17 @@
 .dropdown{
     position: relative;
     display: inline-block;
-    margin: auto 0 auto auto;
+    margin: auto 60px auto auto;
 }
 
 .dropdown:hover .header__links {
     display: block;
+
 }
 
 .dropdown:hover .header__links-name {
     opacity: 0.7;
+    transition: 0.25s ease-in-out;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius: 7px;
 }
