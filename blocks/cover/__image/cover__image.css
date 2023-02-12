@@ -4,11 +4,11 @@
     min-height: 350px;
     object-position: top;
     object-fit: cover;
-    transition: 0.25s ease-in-out;
-    filter: brightness(80%);
+    transition: 0.7s ease-in-out;
+    filter: brightness(70%);
 }
 
 .cover__image:hover {
-    filter: brightness(50%);
+    filter: brightness(40%);
     transition: 0.25s ease-in-out;
 }

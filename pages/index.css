@@ -1,5 +1,7 @@
 @import url(../vendor/normalize.css);
 
+@import url(../fonts/fonts.css);
+
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/rotation/rotation.css);
@@ -21,6 +23,10 @@
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__title/cover__title.css);
+
+@import url(../blocks/main-text/main-text.css);
+@import url(../blocks/main-text/__container/main-text__container.css);
 
 a {
     color: black;

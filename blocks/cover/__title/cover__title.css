@@ -1,0 +1,18 @@
+.cover__title {
+    position: absolute;
+    right: 60px;
+    top: 85px;
+    font-size: 90px;
+    line-height: 90px;
+    font-weight: 600;
+    display: flex;
+    color: white;
+    opacity: 0.95;
+}
+
+.cover__title:hover{
+    opacity: 0.85;
+    transition: 0.25s ease-in-out;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+    border-radius: 5px;
+}
